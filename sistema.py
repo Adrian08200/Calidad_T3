@@ -1,4 +1,3 @@
-# sistema.py
 
 class ProyectoMinero:
     def __init__(self, nombre, inversion, tipo):
